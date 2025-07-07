@@ -1,2 +1,2 @@
 console.log("versions 4");
-console.log("the new day");
+console.log("the new day to play");
